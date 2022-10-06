@@ -1,9 +1,10 @@
 # Manual Git CicloSuperior
 ## Trabajo colaborativo - Pull request y Push Request
 1. Lo pimero que debemos hacer es entrar en el repositorio público de Laia **libro2** https://github.com/laiafp/libro2.
-2. Hacemos un Fork asignándole el nombre de **libroCarlos**.
-3. Vamos a nuestra terminal de Ubuntu y escribimos el siguiente código.
+2. Hacemos un **Fork** para crearnos un proyecto nuevo a partir de **libro2** asignándole el nombre de **libroCarlos**.
+3. Desde nuestro GitHub abrimos el repositorio libroCarlos que acabamos de generar y pulsamos en el botón **Code**. Esto nos permitirá copiar la url que posteriormente usaremos para clonarlo desde la terminal de ubuntu.
+4. Abrimos la terminal de ubuntu hacemos un **clone** del repositorio.
 ```
-git --version
+sudo git clone https://github.com/carlosvigan/libroCarlos.git repositoriofork
 ```
-4.
+
