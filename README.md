@@ -31,7 +31,7 @@ carlos@carlos-VirtualBox:~/repositoriofork$ sudo git commit -m "Subiendo pruebaG
 1 file changed, 1 insertion(+) 
 create mode 100644 pruebaGit.txt 
 ```
-9. Hacemos un push para subir el fichero pruebaGit.txt desde nuestra rama main del respositorio local al repositorio de Github
+9. Hacemos un push para subir el fichero pruebaGit.txt desde nuestra rama main del respositorio local al repositorio de Github **libroCarlos**.
 ```
 carlos@carlos-VirtualBox:~/repositoriofork$ sudo git push origin main 
 Username for 'https://github.com': carlosvigan 
